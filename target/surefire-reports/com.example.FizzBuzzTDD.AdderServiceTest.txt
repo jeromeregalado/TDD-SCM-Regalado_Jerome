@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.FizzBuzzTDD.AdderServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.024 s <<< FAILURE! - in com.example.FizzBuzzTDD.AdderServiceTest
+name  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'void com.example.FizzBuzzTDD.Calculator.<init>(com.example.FizzBuzzTDD.InputGenerator)'
+	at com.example.FizzBuzzTDD.AdderServiceTest.<init>(AdderServiceTest.java:22)
+
